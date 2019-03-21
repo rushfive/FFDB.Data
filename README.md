@@ -1,5 +1,3 @@
-FFDB.Data
+## WARNING: you probably dont want to download this repo - it contains thousands of files for a total size close to 300MB.
 
 Contains the original source files and versioned models for use with the FFDB.Engine.
-
-If enabled, the engine will first try to fetch the required files from this repo, before making a request to the true data source.
