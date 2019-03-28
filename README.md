@@ -1,3 +1,3 @@
-## WARNING: you probably dont want to download this repo - it contains thousands of files for a total size close to 300MB.
+I've disabled this repo from being used by the Engine due to potential legal reasons. All original source files have been removed.
 
-Contains the original source files and versioned models for use with the FFDB.Engine.
+This repo is staying up until the Engine's next release, at which point I'll completely remove any calls being made here.
